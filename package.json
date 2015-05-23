@@ -1,0 +1,29 @@
+{
+  "name": "fs-loader",
+  "version": "0.0.1",
+  "description": "Webpack loader for copy files to filesystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/istarkov/fs-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "fs",
+    "copy",
+    "filesystem"
+  ],
+  "author": "istarkov https://github.com/istarkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/istarkov/fs-loader/issues"
+  },
+  "homepage": "https://github.com/istarkov/fs-loader#readme",
+  "dependencies": {
+    "loader-utils": "^0.2.9"
+  }
+}
